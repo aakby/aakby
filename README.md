@@ -24,3 +24,17 @@ Here are some ideas to get you started:
 
 
 
+## &#x1f4c8; GitHub Stats
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api/?username=aakby&theme=<THEME_NAME>" />
+
+<!-- icons without padding -->
+
+
+[3.2]: https://github.com/aakby/aakby/blob/main/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+
+[3]: https://www.linkedin.com/in/amine-akby-276329144/
