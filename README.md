@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## Data Science and Machine learning Techniques
 
-<img alt="Linear Regression" src="https://img.shields.io/badge/Linear Regression%20-%2314354C.svg?&style=for-the-badge&logo=Linear Regression&logoColor=white"/><img alt="SVM" src="https://img.shields.io/badge/SVM%20-%2314354C.svg?&style=for-the-badge&logo=SVM&logoColor=white"/><img alt="Kmeans" src="https://img.shields.io/badge/Kmeans%20-%2314354C.svg?&style=for-the-badge&logo=Kmeans&logoColor=white"/><img alt="CNN" src="https://img.shields.io/badge/CNN%20-%2314354C.svg?&style=for-the-badge&logo=cnn&logoColor=white"/><img alt="Decision Trees" src="https://img.shields.io/badge/DecisionTrees%20-%2314354C.svg?&style=for-the-badge&logo=DecisionTrees&logoColor=white"/><img alt="Random Forrest" src="https://img.shields.io/badge/RandomForrest%20-%2314354C.svg?&style=for-the-badge&logo=RandomForrest&logoColor=white"/>
+<img alt="Linear Regression" src="https://img.shields.io/badge/Linear Regression%20-%2314354C.svg?&style=for-the-badge&logo=Linear Regression&logoColor=white"/>  <img alt="SVM" src="https://img.shields.io/badge/SVM%20-%2314354C.svg?&style=for-the-badge&logo=SVM&logoColor=white"/>  <img alt="Kmeans" src="https://img.shields.io/badge/Kmeans%20-%2314354C.svg?&style=for-the-badge&logo=Kmeans&logoColor=white"/>  <img alt="CNN" src="https://img.shields.io/badge/CNN%20-%2314354C.svg?&style=for-the-badge&logo=cnn&logoColor=white"/>  <img alt="Decision Trees" src="https://img.shields.io/badge/DecisionTrees%20-%2314354C.svg?&style=for-the-badge&logo=DecisionTrees&logoColor=white"/>  <img alt="Random Forrest" src="https://img.shields.io/badge/RandomForrest%20-%2314354C.svg?&style=for-the-badge&logo=RandomForrest&logoColor=white"/>
 
 ## &#x1f4c8; GitHub Stats
 
